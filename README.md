@@ -16,4 +16,4 @@ Database for the Application is in _"database"_ folder. It can be imported to yo
 Also configure the `connection.php` to set up the necessary connections with the database.
 
 >Here is the screenshot of my Chat-Room application:
-<img src="/images/Screenshot - Chat Room.png" width="800" height="450" alt="TerminalScreenshot"/>
+<img src="/images/Screenshot - Chat Room.png" width="800" height="450" alt="Chat-Room Screenshot"/>
